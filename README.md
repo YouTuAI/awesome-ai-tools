@@ -37,6 +37,7 @@
 | CodeLlama      | Meta 开源大模型代码版本      | [官网](https://ai.meta.com/blog/code-llama)           |
 | DeepSeek-Coder | 深度求索开源代码大模型         | [官网](https://github.com/deepseek-ai/DeepSeek-Coder) |
 | Qwen-Code      | 通义千问开源代码模型          | [官网](https://github.com/QwenLM/Qwen)                |
+| agent-qa       | 自然语言 Web / 移动端测试，支持 memidex 持久记忆与经验证的自我改进 | [官网](https://vostride.com) |
 
 ---
 
