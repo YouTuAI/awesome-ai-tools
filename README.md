@@ -75,6 +75,7 @@
 | 可灵 AI        | 快手文生视频      | [官网](https://klingai.kuaishou.com) |
 | 即梦 AI        | 字节文生视频      | [官网](https://jimeng.jianying.com)  |
 | AniShort     | AI 漫剧生成平台   | [官网](https://anishort.cn)          |
+| ReelAI       | 照片生成 AI 短视频（付费） | [官网](https://tryreelai.com/) |
 
 ---
 
